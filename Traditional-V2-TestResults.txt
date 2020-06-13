@@ -1,0 +1,243 @@
+Task: 1, Test Name: Search field is displayed, DOM Id: INPUTtext____42, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: BUTTONsubmit____43, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Filters Funnel is displayed, DOM Id: ti-filter, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Filters Column is displayed, DOM Id: filter_col, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Product Grid Section Displays 2 Black Shoes, DOM Id: product_grid, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product Name is Displayed and Correct, DOM Id: H3____218, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product Image Color is Black, DOM Id: IMG__imgfluid__215, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product New Price is Displayed and Correct, DOM Id: SPAN__newprice__220, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product Old Price is Displayed and Correct, DOM Id: SPAN__oldprice__221, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product Discount Countdown is Displayed and Correct, DOM Id: DIV__countdown__216, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: Second Product Name is Displayed and Correct, DOM Id: H3____241, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: Second Product Image Color is Black, DOM Id: IMG__imgfluid__239, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: Second Product Price is Displayed and Correct, DOM Id: SPAN__newprice__243, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Product Name is Displayed and Correct, DOM Id: shoe_name, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Image is Displayed and Correct, DOM Id: shoe_img, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Rating Span is Displayed and Correct, DOM Id: SPAN__rating__76, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Reviews are Displayed and Correct, DOM Id: EM____82, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Product Model is Displayed and Correct, DOM Id: SMALL____84, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Description is Displayed and Correct, DOM Id: P____83, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product New Price is Displayed and Correct, DOM Id: new_price, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Product Old Price is Displayed and Correct, DOM Id: old_price, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Discount Percentage is Displayed and Correct, DOM Id: discount, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Size Label is Displayed and Correct, DOM Id: STRONG____90, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Default Selected Size is Displayed and Correct, DOM Id: .current, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Product Quantity Label is Displayed and Correct, DOM Id: STRONG____100, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Default Selected Quantity is Displayed and Correct, DOM Id: quantity_1, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Add to Cart Button is Displayed, DOM Id: A__btn__114, Browser: CHROME, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: INPUTtext____42, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: BUTTONsubmit____43, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Filters Funnel is displayed, DOM Id: ti-filter, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Filters Column is displayed, DOM Id: filter_col, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Product Grid Section Displays 2 Black Shoes, DOM Id: product_grid, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product Name is Displayed and Correct, DOM Id: H3____218, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product Image Color is Black, DOM Id: IMG__imgfluid__215, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product New Price is Displayed and Correct, DOM Id: SPAN__newprice__220, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product Old Price is Displayed and Correct, DOM Id: SPAN__oldprice__221, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product Discount Countdown is Displayed and Correct, DOM Id: DIV__countdown__216, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Second Product Name is Displayed and Correct, DOM Id: H3____241, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Second Product Image Color is Black, DOM Id: IMG__imgfluid__239, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Second Product Price is Displayed and Correct, DOM Id: SPAN__newprice__243, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Product Name is Displayed and Correct, DOM Id: shoe_name, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Image is Displayed and Correct, DOM Id: shoe_img, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Rating Span is Displayed and Correct, DOM Id: SPAN__rating__76, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Reviews are Displayed and Correct, DOM Id: EM____82, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Product Model is Displayed and Correct, DOM Id: SMALL____84, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Description is Displayed and Correct, DOM Id: P____83, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product New Price is Displayed and Correct, DOM Id: new_price, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Product Old Price is Displayed and Correct, DOM Id: old_price, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Discount Percentage is Displayed and Correct, DOM Id: discount, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Size Label is Displayed and Correct, DOM Id: STRONG____90, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Default Selected Size is Displayed and Correct, DOM Id: .current, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Product Quantity Label is Displayed and Correct, DOM Id: STRONG____100, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Default Selected Quantity is Displayed and Correct, DOM Id: quantity_1, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Add to Cart Button is Displayed, DOM Id: A__btn__114, Browser: CHROME, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: INPUTtext____42, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: BUTTONsubmit____43, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Filters Funnel is displayed, DOM Id: ti-filter, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Filters Column is displayed, DOM Id: filter_col, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Product Grid Section Displays 2 Black Shoes, DOM Id: product_grid, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product Name is Displayed and Correct, DOM Id: H3____218, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product Image Color is Black, DOM Id: IMG__imgfluid__215, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product New Price is Displayed and Correct, DOM Id: SPAN__newprice__220, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product Old Price is Displayed and Correct, DOM Id: SPAN__oldprice__221, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product Discount Countdown is Displayed and Correct, DOM Id: DIV__countdown__216, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Second Product Name is Displayed and Correct, DOM Id: H3____241, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Second Product Image Color is Black, DOM Id: IMG__imgfluid__239, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Second Product Price is Displayed and Correct, DOM Id: SPAN__newprice__243, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Product Name is Displayed and Correct, DOM Id: shoe_name, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Image is Displayed and Correct, DOM Id: shoe_img, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Rating Span is Displayed and Correct, DOM Id: SPAN__rating__76, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Reviews are Displayed and Correct, DOM Id: EM____82, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Product Model is Displayed and Correct, DOM Id: SMALL____84, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Description is Displayed and Correct, DOM Id: P____83, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product New Price is Displayed and Correct, DOM Id: new_price, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Product Old Price is Displayed and Correct, DOM Id: old_price, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Discount Percentage is Displayed and Correct, DOM Id: discount, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Size Label is Displayed and Correct, DOM Id: STRONG____90, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Default Selected Size is Displayed and Correct, DOM Id: .current, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Product Quantity Label is Displayed and Correct, DOM Id: STRONG____100, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Default Selected Quantity is Displayed and Correct, DOM Id: quantity_1, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Add to Cart Button is Displayed, DOM Id: A__btn__114, Browser: CHROME, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: INPUTtext____42, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: BUTTONsubmit____43, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Filters Funnel is displayed, DOM Id: ti-filter, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Filters Column is displayed, DOM Id: filter_col, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Product Grid Section Displays 2 Black Shoes, DOM Id: product_grid, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product Name is Displayed and Correct, DOM Id: H3____218, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product Image Color is Black, DOM Id: IMG__imgfluid__215, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product New Price is Displayed and Correct, DOM Id: SPAN__newprice__220, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product Old Price is Displayed and Correct, DOM Id: SPAN__oldprice__221, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product Discount Countdown is Displayed and Correct, DOM Id: DIV__countdown__216, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: Second Product Name is Displayed and Correct, DOM Id: H3____241, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: Second Product Image Color is Black, DOM Id: IMG__imgfluid__239, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: Second Product Price is Displayed and Correct, DOM Id: SPAN__newprice__243, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Product Name is Displayed and Correct, DOM Id: shoe_name, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Image is Displayed and Correct, DOM Id: shoe_img, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Rating Span is Displayed and Correct, DOM Id: SPAN__rating__76, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Reviews are Displayed and Correct, DOM Id: EM____82, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Product Model is Displayed and Correct, DOM Id: SMALL____84, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Description is Displayed and Correct, DOM Id: P____83, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product New Price is Displayed and Correct, DOM Id: new_price, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Product Old Price is Displayed and Correct, DOM Id: old_price, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Discount Percentage is Displayed and Correct, DOM Id: discount, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Size Label is Displayed and Correct, DOM Id: STRONG____90, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Default Selected Size is Displayed and Correct, DOM Id: .current, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Product Quantity Label is Displayed and Correct, DOM Id: STRONG____100, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Default Selected Quantity is Displayed and Correct, DOM Id: quantity_1, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Add to Cart Button is Displayed, DOM Id: A__btn__114, Browser: EDGE, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: INPUTtext____42, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: BUTTONsubmit____43, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Filters Funnel is displayed, DOM Id: ti-filter, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Filters Column is displayed, DOM Id: filter_col, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Product Grid Section Displays 2 Black Shoes, DOM Id: product_grid, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product Name is Displayed and Correct, DOM Id: H3____218, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product Image Color is Black, DOM Id: IMG__imgfluid__215, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product New Price is Displayed and Correct, DOM Id: SPAN__newprice__220, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product Old Price is Displayed and Correct, DOM Id: SPAN__oldprice__221, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product Discount Countdown is Displayed and Correct, DOM Id: DIV__countdown__216, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Second Product Name is Displayed and Correct, DOM Id: H3____241, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Second Product Image Color is Black, DOM Id: IMG__imgfluid__239, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Second Product Price is Displayed and Correct, DOM Id: SPAN__newprice__243, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Product Name is Displayed and Correct, DOM Id: shoe_name, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Image is Displayed and Correct, DOM Id: shoe_img, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Rating Span is Displayed and Correct, DOM Id: SPAN__rating__76, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Reviews are Displayed and Correct, DOM Id: EM____82, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Product Model is Displayed and Correct, DOM Id: SMALL____84, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Description is Displayed and Correct, DOM Id: P____83, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product New Price is Displayed and Correct, DOM Id: new_price, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Product Old Price is Displayed and Correct, DOM Id: old_price, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Discount Percentage is Displayed and Correct, DOM Id: discount, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Size Label is Displayed and Correct, DOM Id: STRONG____90, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Default Selected Size is Displayed and Correct, DOM Id: .current, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Product Quantity Label is Displayed and Correct, DOM Id: STRONG____100, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Default Selected Quantity is Displayed and Correct, DOM Id: quantity_1, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Add to Cart Button is Displayed, DOM Id: A__btn__114, Browser: EDGE, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: INPUTtext____42, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: BUTTONsubmit____43, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Filters Funnel is displayed, DOM Id: ti-filter, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Filters Column is displayed, DOM Id: filter_col, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Product Grid Section Displays 2 Black Shoes, DOM Id: product_grid, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product Name is Displayed and Correct, DOM Id: H3____218, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product Image Color is Black, DOM Id: IMG__imgfluid__215, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product New Price is Displayed and Correct, DOM Id: SPAN__newprice__220, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product Old Price is Displayed and Correct, DOM Id: SPAN__oldprice__221, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product Discount Countdown is Displayed and Correct, DOM Id: DIV__countdown__216, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Second Product Name is Displayed and Correct, DOM Id: H3____241, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Second Product Image Color is Black, DOM Id: IMG__imgfluid__239, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Second Product Price is Displayed and Correct, DOM Id: SPAN__newprice__243, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Product Name is Displayed and Correct, DOM Id: shoe_name, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Image is Displayed and Correct, DOM Id: shoe_img, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Rating Span is Displayed and Correct, DOM Id: SPAN__rating__76, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Reviews are Displayed and Correct, DOM Id: EM____82, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Product Model is Displayed and Correct, DOM Id: SMALL____84, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Description is Displayed and Correct, DOM Id: P____83, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product New Price is Displayed and Correct, DOM Id: new_price, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Product Old Price is Displayed and Correct, DOM Id: old_price, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Discount Percentage is Displayed and Correct, DOM Id: discount, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Size Label is Displayed and Correct, DOM Id: STRONG____90, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Default Selected Size is Displayed and Correct, DOM Id: .current, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Product Quantity Label is Displayed and Correct, DOM Id: STRONG____100, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Default Selected Quantity is Displayed and Correct, DOM Id: quantity_1, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Add to Cart Button is Displayed, DOM Id: A__btn__114, Browser: EDGE, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: INPUTtext____42, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: BUTTONsubmit____43, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Filters Funnel is displayed, DOM Id: ti-filter, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Filters Column is displayed, DOM Id: filter_col, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 2, Test Name: Product Grid Section Displays 2 Black Shoes, DOM Id: product_grid, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product Name is Displayed and Correct, DOM Id: H3____218, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product Image Color is Black, DOM Id: IMG__imgfluid__215, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product New Price is Displayed and Correct, DOM Id: SPAN__newprice__220, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product Old Price is Displayed and Correct, DOM Id: SPAN__oldprice__221, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: First Product Discount Countdown is Displayed and Correct, DOM Id: DIV__countdown__216, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: Second Product Name is Displayed and Correct, DOM Id: H3____241, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: Second Product Image Color is Black, DOM Id: IMG__imgfluid__239, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 2, Test Name: Second Product Price is Displayed and Correct, DOM Id: SPAN__newprice__243, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Product Name is Displayed and Correct, DOM Id: shoe_name, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Image is Displayed and Correct, DOM Id: shoe_img, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Rating Span is Displayed and Correct, DOM Id: SPAN__rating__76, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Reviews are Displayed and Correct, DOM Id: EM____82, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Product Model is Displayed and Correct, DOM Id: SMALL____84, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Description is Displayed and Correct, DOM Id: P____83, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product New Price is Displayed and Correct, DOM Id: new_price, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Product Old Price is Displayed and Correct, DOM Id: old_price, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Discount Percentage is Displayed and Correct, DOM Id: discount, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Size Label is Displayed and Correct, DOM Id: STRONG____90, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Default Selected Size is Displayed and Correct, DOM Id: .current, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Fail
+Task: 3, Test Name: Product Quantity Label is Displayed and Correct, DOM Id: STRONG____100, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Product Default Selected Quantity is Displayed and Correct, DOM Id: quantity_1, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 3, Test Name: Add to Cart Button is Displayed, DOM Id: A__btn__114, Browser: FIREFOX, Viewport: 1200X700, Device: LAPTOP, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: INPUTtext____42, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: BUTTONsubmit____43, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Filters Funnel is displayed, DOM Id: ti-filter, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Filters Column is displayed, DOM Id: filter_col, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Product Grid Section Displays 2 Black Shoes, DOM Id: product_grid, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product Name is Displayed and Correct, DOM Id: H3____218, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product Image Color is Black, DOM Id: IMG__imgfluid__215, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product New Price is Displayed and Correct, DOM Id: SPAN__newprice__220, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product Old Price is Displayed and Correct, DOM Id: SPAN__oldprice__221, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: First Product Discount Countdown is Displayed and Correct, DOM Id: DIV__countdown__216, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Second Product Name is Displayed and Correct, DOM Id: H3____241, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Second Product Image Color is Black, DOM Id: IMG__imgfluid__239, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 2, Test Name: Second Product Price is Displayed and Correct, DOM Id: SPAN__newprice__243, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Product Name is Displayed and Correct, DOM Id: shoe_name, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Image is Displayed and Correct, DOM Id: shoe_img, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Rating Span is Displayed and Correct, DOM Id: SPAN__rating__76, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Reviews are Displayed and Correct, DOM Id: EM____82, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Product Model is Displayed and Correct, DOM Id: SMALL____84, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Description is Displayed and Correct, DOM Id: P____83, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product New Price is Displayed and Correct, DOM Id: new_price, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Product Old Price is Displayed and Correct, DOM Id: old_price, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Discount Percentage is Displayed and Correct, DOM Id: discount, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Size Label is Displayed and Correct, DOM Id: STRONG____90, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Default Selected Size is Displayed and Correct, DOM Id: .current, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Fail
+Task: 3, Test Name: Product Quantity Label is Displayed and Correct, DOM Id: STRONG____100, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Product Default Selected Quantity is Displayed and Correct, DOM Id: quantity_1, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 3, Test Name: Add to Cart Button is Displayed, DOM Id: A__btn__114, Browser: FIREFOX, Viewport: 800X700, Device: TABLET, Status: Pass
+Task: 1, Test Name: Search field is displayed, DOM Id: INPUTtext____42, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Search icon is displayed, DOM Id: BUTTONsubmit____43, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Filters Funnel is displayed, DOM Id: ti-filter, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 1, Test Name: Filters Column is displayed, DOM Id: filter_col, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Product Grid Section Displays 2 Black Shoes, DOM Id: product_grid, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product Name is Displayed and Correct, DOM Id: H3____218, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product Image Color is Black, DOM Id: IMG__imgfluid__215, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product New Price is Displayed and Correct, DOM Id: SPAN__newprice__220, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product Old Price is Displayed and Correct, DOM Id: SPAN__oldprice__221, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: First Product Discount Countdown is Displayed and Correct, DOM Id: DIV__countdown__216, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Second Product Name is Displayed and Correct, DOM Id: H3____241, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Second Product Image Color is Black, DOM Id: IMG__imgfluid__239, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 2, Test Name: Second Product Price is Displayed and Correct, DOM Id: SPAN__newprice__243, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Product Name is Displayed and Correct, DOM Id: shoe_name, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Image is Displayed and Correct, DOM Id: shoe_img, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Rating Span is Displayed and Correct, DOM Id: SPAN__rating__76, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Reviews are Displayed and Correct, DOM Id: EM____82, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Product Model is Displayed and Correct, DOM Id: SMALL____84, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Description is Displayed and Correct, DOM Id: P____83, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product New Price is Displayed and Correct, DOM Id: new_price, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Product Old Price is Displayed and Correct, DOM Id: old_price, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Discount Percentage is Displayed and Correct, DOM Id: discount, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Size Label is Displayed and Correct, DOM Id: STRONG____90, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Default Selected Size is Displayed and Correct, DOM Id: .current, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Fail
+Task: 3, Test Name: Product Quantity Label is Displayed and Correct, DOM Id: STRONG____100, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Product Default Selected Quantity is Displayed and Correct, DOM Id: quantity_1, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Pass
+Task: 3, Test Name: Add to Cart Button is Displayed, DOM Id: A__btn__114, Browser: FIREFOX, Viewport: 500X700, Device: MOBILE, Status: Pass

@@ -1,0 +1,11 @@
+#
+# Project specific excludes
+#
+# Maven
+target/
+
+# IntelliJ project files
+*.iml
+.idea/
+*.log
+
